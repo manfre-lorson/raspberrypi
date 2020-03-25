@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 25 09:23:52 2020
 
-@author: fw56moba
+@author: manfre-lorson
 """
 
 import matplotlib.pyplot as plt
@@ -129,7 +129,7 @@ plot_board()
 diode(pp.h, -30)
 
 
-#plt.savefig(r'D:\florian_wolf\tmp\plt.png', dpi=300)
+#plt.savefig(r'plt.png', dpi=300)
 
 
 
